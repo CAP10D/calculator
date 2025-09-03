@@ -1,5 +1,5 @@
 # 🧮 Calculator App
-- [Live]()
+- [Live](https://calculator-pintu-jenas-projects.vercel.app/)
 - [Code](https://github.com/CAP10D/calculator.git)
 
 A simple and stylish calculator built with **HTML, CSS, and JavaScript**.  
