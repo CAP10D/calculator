@@ -1,6 +1,6 @@
 # 🧮 Calculator App
 - [Live]()
-- [Code]()
+- [Code](https://github.com/CAP10D/calculator.git)
 
 A simple and stylish calculator built with **HTML, CSS, and JavaScript**.  
 This project demonstrates basic **DOM manipulation**, **event handling**, and **error handling** using `try...catch`.
